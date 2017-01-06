@@ -1,18 +1,6 @@
-
-/*
- * ----------------------------------------------------------------------------
- * "THE BEER-WARE LICENSE" (Revision 42):
- * Kaushik Ray wrote this file.  As long as you retain this notice you
- * can do whatever you want with this stuff. If we meet some day, and you think
- * this stuff is worth it, you can buy me a beer in return.   
- * ----------------------------------------------------------------------------
- */
-
-
 /*
 NOTE: This code only works for PWM pins but not the timer pins
 For Arduino DUE only 
-An Example code to change PWM frequency for Arduino DUE
 */
 
 
